@@ -9,6 +9,7 @@ public class Adresse {
 		this.hausnr = hausnr;
 		this.plz = plz;
 		this.ort = ort;
+		// comment
 	}
 
 	
