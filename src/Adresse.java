@@ -11,6 +11,7 @@ public class Adresse {
 		this.ort = ort;
 	}
 
+	
 	@Override
 	public String toString() {
 		return "Adresse:\n\t" + this.strasse + " " + hausnr + "\n\t" + plz + " " + ort;
